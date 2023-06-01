@@ -27,6 +27,9 @@ PRODUCT_MODEL := Redmi 5 Plus
 PRODUCT_MANUFACTURER := Xiaomi
 TARGET_VENDOR := Xiaomi
 
+# build
+BUILD_USERNAME := zyn
+BUILD_HOSTNAME := x250
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
