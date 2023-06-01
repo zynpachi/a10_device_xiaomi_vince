@@ -27,9 +27,6 @@ PRODUCT_MODEL := Redmi 5 Plus
 PRODUCT_MANUFACTURER := Xiaomi
 TARGET_VENDOR := Xiaomi
 
-# build
-BUILD_USERNAME := android-build
-BUILD_HOSTNAME := dib-server
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
