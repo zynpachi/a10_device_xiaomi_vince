@@ -12,12 +12,12 @@
 | Storage                 | 32/64 GB                          |
 | MicroSD                 | Up to 256 GB                      |
 | Battery                 | 4000 mAh (non-removable)          |
-| Dimensions              | 158.5 x 75.4 x 8.0 mm             |
-| Display                 | 2160x1080 pixels, 5.9 (~401 PPI)  |
+| Dimensions              | 151 x 76 x 8.5 mm                 |
+| Display                 | 1080x2160 pixels, 5.99 (~401 PPI) |
 | Rear Camera             | 12 MP, LED flash                  |
-| Front Camera            | 5 MP                              |
-| Release Date            | April 2017                        |
+| Front Camera            | 5 MP, LED flash                   |
+| Release Date            | February 2018                     |
 
 ## Device Picture
 
-![Xiaomi Redmi 5 Plus](https://i.imgur.com/2FYdLQK.jpg "Xiaomi Redmi 5 Plus")
+![Redmi 5 Plus](https://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-5-plus-2.jpg "Redmi 5 Plus")
